@@ -2,3 +2,4 @@ src
 rollup.config.js
 .vscode
 mb-king-npm-react-*.tgz
+.babelrc
